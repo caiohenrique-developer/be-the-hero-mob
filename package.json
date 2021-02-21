@@ -1,12 +1,17 @@
 {
   "name": "be-the-hero-mob",
   "description": "🦸‍♀️🦸‍♂️ Register your NGO on our platform, to find a hero to help your cause.",
-  "repository": "https://github.com/caiohenrique-developer/be-the-hero-mob.git",
-  "author": "caiohenrique.developer@gmail.com",
-  "license": "MIT",
   "main": "node_modules/expo/AppEntry.js",
-  "private": true,
+  "repository": "https://github.com/caiohenrique-developer/be-the-hero-mob.git",
+  "bugs": {
+    "url": "https://github.com/caiohenrique-developer/be-the-hero-mob/issues"
+  },
+  "homepage": "https://github.com/caiohenrique-developer/be-the-hero-mob#readme",
+  "author": "Caio Henrique <caiohenrique.developer@gmail.com>",
   "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "keywords": [],
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
