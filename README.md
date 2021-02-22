@@ -29,25 +29,25 @@
 
 ## :flying_saucer: Technologies
 
-This project was developed at the [RocketSeat GoStack Bootcamp 11](https://rocketseat.com.br) with the following technologies:
+This project was developed at the [RocketSeat OmniStack 11](https://rocketseat.com.br) with the following technologies:
 
 -  [Axios](https://github.com/axios/axios)
+-  [Expo](https://expo.io/)
+-  [Expo Constants](https://github.com/expo/expo/tree/master/packages/expo-constants)
+-  [Expo Mail Composer](https://github.com/expo/expo/tree/master/packages/expo-mail-composer)
+-  [Intl.js](https://github.com/andyearnshaw/Intl.js)
 -  [Commitlint](https://github.com/conventional-changelog/commitlint)
 -  [Commitizen](https://github.com/commitizen/cz-cli)
--  [Date-fns](https://date-fns.org/)
 -  [Husky](https://github.com/typicode/husky)
 -  [Jest](https://jestjs.io/)
 -  [ReactJS](https://reactjs.org/)
 -  [React Native](https://reactnative.dev/)
 -  [React Native Gesture Handler](https://github.com/software-mansion/react-native-gesture-handler)
--  [React Native Image Picker](https://github.com/react-native-image-picker/react-native-image-picker)
--  [React Native Vector Icons](https://github.com/oblador/react-native-vector-icons)
+-  [React Native Reanimated](https://github.com/software-mansion/react-native-reanimated)
+-  [React Native Safe Area Context](https://github.com/th3rdwave/react-native-safe-area-context)
+-  [React Native Screens](https://github.com/software-mansion/react-native-screens)
 -  [Semantic-release](https://semantic-release.gitbook.io/semantic-release/)
--  [Styled Components](https://www.styled-components.com/)
--  [TypeScript](https://www.typescriptlang.org/)
--  [Unform](https://unform.dev/)
--  [VS Code][vc] with [ESLint][vceslint], [EditorConfig][vceditconfig] & [Prettier][vcprettier]
--  [Yup](https://github.com/jquense/yup)
+-  [VS Code][vc]
 
 ## :warning: Prerequisites
 
