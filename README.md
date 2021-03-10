@@ -1,3 +1,5 @@
+### <a name="top"></a>
+
 <h1 align="center">
   <!-- <a href="#"> -->
     <img alt="Be The Hero logotipo" src="src/assets/logo.svg" />
@@ -178,13 +180,32 @@ To clone and run this application locally, you'll need [Git](https://git-scm.com
   </a>
 </p>
 
-## :closed_lock_with_key: License
+## [🔝](#top) License :closed_lock_with_key:
 
-This project is under the MIT license. See the [LICENSE](https://github.com/caiohenrique-developer/be-the-hero-mob/blob/master/LICENSE) for more information.
+Copyright © 2021 Be The Hero, [MIT](https://github.com/caiohenrique-developer/be-the-hero-mob/blob/master/LICENSE) .
+###### _This project is under the <sup>MIT</sup> license. See the license for more information._
 
 ---
 
-<blockquote align="center">Done with ♥ by myself ☝️ <a href="https://www.linkedin.com/in/caio-henrique-024627171/">Get in touch!</a></blockquote>
+<blockquote align="center">“Always running in search of the goals!” <br> Done with ♥ by myself 👇 <a href="#-contact-me-phone">Get in touch!</a></blockquote>
+
+## [🔝](#top) Contact Me :phone:
+
+<p align="left">
+  <img align="left" alt="Profile Avatar" src="./src/assets/professional.png" width="80" />
+
+  <br>
+
+  <a href="https://www.linkedin.com/in/caio-henrique-024627171">
+    <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/Caio%20Henrique-0077B5?logo=linkedin&logoColor=white&style=flat-square" />
+  </a>
+  <a href="mailto:caiohenrique.developer@gmail.com">
+    <img align="center" alt="Gmail" src="https://img.shields.io/badge/caiohenrique.developer@gmail.com-D14836?logo=gmail&logoColor=white&style=flat-square" />
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=5511943902438&text=Fala%20Caio,%20como%20vai?">
+    <img align="center" alt="Whatsapp" src="https://img.shields.io/badge/(11)%2094390%202438-25D366?style=social&logo=whatsapp&logoColor=black" />
+  </a>
+</p>
 
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
