@@ -11,17 +11,13 @@
 </h5>
 
 <p align="center">
-  <!-- <a href="#art-app-ui">🎨 App UI</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; -->
-  <a href="#flying_saucer-technologies">🛸 Technologies</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#warning-prerequisites">⚠️ Prerequisites</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#grey_question-how-to-use">❔ How To Use</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#bookmark-badges">🔖 Badges</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#closed_lock_with_key-license">🔐 License</a>
+  <a href="#-techs-flying_saucer">🛸 Techs</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-prerequisites-warning">⚠️ Prerequisites</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#-how-to-use-grey_question">❔ How To Use</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-badges-bookmark">🔖 Badges</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-license-closed_lock_with_key">🔐 License</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-contact-me-phone">☎ Contact Me</a>
 </p>
-
-<!-- <br> -->
-
-<!-- ## :art: App UI --> 
 
 <br>
 
@@ -29,7 +25,7 @@
   <img alt="Be The Hero mockup image" src="src/assets/mockup.png" width="500" />
 </p>
 
-## :flying_saucer: Technologies
+## [🔝](#top) Techs :flying_saucer:
 
 This project was developed at the [RocketSeat OmniStack 11](https://rocketseat.com.br) with the following technologies:
 
@@ -51,7 +47,7 @@ This project was developed at the [RocketSeat OmniStack 11](https://rocketseat.c
 -  [Semantic-release](https://semantic-release.gitbook.io/semantic-release/)
 -  [VS Code][vc]
 
-## :warning: Prerequisites
+## [🔝](#top) Prerequisites :warning:
 
 In order to use and test the mobile app on a simulator or on your physical smartphone, you should've already setup the development environment for React Native applications. You can follow the following article (PT-BR) to setup your environment: [React Native Environment (Android/iOS)](https://docs.rocketseat.dev/ambiente-react-native/introducao).
 
@@ -61,12 +57,12 @@ And also, firstly i recommend that you access and run the backend repository for
   <img width="350px" alt="Be The Hero back-end repository" src="https://github-readme-stats.vercel.app/api/pin/?username=caiohenrique-developer&repo=be-the-hero-api&theme=dark" />
 </a>
 
-## :grey_question: How To Use
+## [🔝](#top) How To Use :grey_question:
 
 To clone and run this application locally, you'll need [Git](https://git-scm.com), [Node.js v10.16][nodejs] or higher + [Yarn v1.13][yarn] or higher installed on your computer.
 
 <details open>
-  <summary>Hit me to toggle collapse: 🕹️🤏</summary>
+  <summary>Hit me to toggle collapse: 🕹️<sup>🤏</sup></summary>
 
   _From your `command line` follow these steps..._
 
@@ -118,11 +114,11 @@ To clone and run this application locally, you'll need [Git](https://git-scm.com
   # or
   $ npm ios
 
-  # Very well, now you can enjoy this project ;)
+  # Very well, now you can enjoy this project! ;)
   ```
 
   + <details>
-      <summary>See also: 🕹️🤏</summary>
+      <summary>See also: 🕹️<sup>🤏</sup></summary>
 
       #### API
 
@@ -142,7 +138,7 @@ To clone and run this application locally, you'll need [Git](https://git-scm.com
   <img alt="Be The Hero background image" src="src/assets/mockuper (2).png" width="700" />
 </p>
 
-## :bookmark: Badges
+## [🔝](#top) Badges :bookmark:
 
 <p align="center">
   <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/caiohenrique-developer/be-the-hero-mob">
@@ -178,6 +174,18 @@ To clone and run this application locally, you'll need [Git](https://git-scm.com
   <a href="https://github.com/semantic-release/semantic-release">
     <img alt="semantic-release" src="https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg">
   </a>
+
+  <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"/>
 </p>
 
 ## [🔝](#top) License :closed_lock_with_key:
